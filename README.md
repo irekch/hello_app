@@ -1,11 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby on Rails Tutorial
 
-Things you may want to cover:
+## "hello, world!"
 
-* Ruby version
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
+
+
+* Ruby version Ruby 2.3.0
+* Rails version 5.0.0.1
 
 * System dependencies
 
